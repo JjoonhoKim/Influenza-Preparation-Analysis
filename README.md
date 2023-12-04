@@ -24,6 +24,9 @@ staffing needs across the country.
  
  The results of this analysis will provide a staffing plan for the upcoming inlfuenza season as well as next action steps moving forward.
 
+ ![Screenshot 2023-12-04 153852](https://github.com/JjoonhoKim/Influenza-Preparation-Analysis/assets/138716928/a7650724-a6b5-4c79-91d7-2101268aedce)
+
+
  **Tableau Link**
 
  https://public.tableau.com/app/profile/justin.kim8784/viz/PostReviewedInfluenzaProject/Story1 
