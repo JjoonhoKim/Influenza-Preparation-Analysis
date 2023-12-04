@@ -23,3 +23,7 @@ staffing needs across the country.
  **Results**
  
  The results of this analysis will provide a staffing plan for the upcoming inlfuenza season as well as next action steps moving forward.
+
+ **Tableau Link**
+
+ https://public.tableau.com/app/profile/justin.kim8784/viz/PostReviewedInfluenzaProject/Story1 
